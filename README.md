@@ -8,4 +8,4 @@ To demonstrate it more accurately this code will take a 0.2 sec break after prin
 every correct alphabet and a 0.05 sec break for every wrong alphabet... 
 
 demo :
-![demo](/use.gif)
+![demo](/use.mp4)
